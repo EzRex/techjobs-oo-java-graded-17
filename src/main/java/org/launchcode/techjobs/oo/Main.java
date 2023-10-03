@@ -14,6 +14,11 @@ public class Main {
 //        for (Job job : jobs){
 //            System.out.println(job);
 //        }
+
+        Employer wow = new Employer();
+        Employer boo = new Employer();
+        System.out.println(wow.getId());
+        System.out.println(boo.getId());
     }
 
 }
